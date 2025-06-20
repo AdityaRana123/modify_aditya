@@ -38,15 +38,3 @@ This app implements Clean Architecture which has three main layers, UI/Presentat
 **Profile**<br/>
 ![Profile](https://res.cloudinary.com/dkwoatrfe/image/upload/w_360,h_800/v1678879157/moodify_screenshots/12_Profile_rlfweu.jpg)
 
-## Installation and Usage
-Download the zip from this repository or use git clone on your terminal.
-
-```bash
-git clone https://github.com/ajailani4/moodify-android.git
-```
-Then, run it on your Android emulator or physical device.
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
